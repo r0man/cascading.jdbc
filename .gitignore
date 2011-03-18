@@ -4,3 +4,6 @@ build
 *.iml
 *.iws
 *.ipr
+classes
+lib
+lib/dev
